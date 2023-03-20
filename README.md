@@ -1,9 +1,11 @@
 # cpp-text-game-engine
 Same as python-text-game-engine but on c++
 
-## this engine is written using gcc compiler installed on windows by mingw application.
+# this engine is written using *gcc* compiler installed on windows 11 by *mingw* application.
 
 **IDE used for this project:** VS code
+**Resources used from internet for learning:** w3schools, stackoverflow
+**How much of it has been used:** only basics and some info (yet)
 
 # How to start?
 
